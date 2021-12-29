@@ -1,0 +1,7 @@
+venv
+.idea
+doc_scan_image.py
+resources/document1.jpg
+resources/document2.jpg
+resources/document3.jpg
+resources/video1.mp4
